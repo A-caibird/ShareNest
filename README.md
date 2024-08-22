@@ -1,8 +1,4 @@
-为了完成您的要求，我将为您编写一个详细的README.md文件，包含中文、日语、韩语、法语、英语、丹麦语、中东语和越南语的多语言描述。这个README.md将说明网站的用途，并详细介绍网站所支持的服务及功能。以下是README.md文件的内容：
-
----
-
-# README.md
+# ShareNest
 
 ## 🌍 多语言简介 / Multi-Language Introduction
 
