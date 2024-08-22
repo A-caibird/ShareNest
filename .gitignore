@@ -1,4 +1,4 @@
-./backend/env
-./frontend/node_modules
-./frontend/pnpm-lock.yaml
+backend/env/
+frontend/node_modules/
+frontend/pnpm-lock.yaml
 
