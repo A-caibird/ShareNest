@@ -1,0 +1,8 @@
+SET user:1 {"username":"user1","email":"user1@example.com"}
+SET user:2 {"username":"user2","email":"user2@example.com"}
+SET user:3 {"username":"user3","email":"user3@example.com"}
+
+HSET product:1 name "Product1" price 100 category "Category1"
+HSET product:2 name "Product2" price 200 category "Category2"
+HSET product:3 name "Product3" price 300 category "Category3"
+
