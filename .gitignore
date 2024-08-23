@@ -1,4 +1,5 @@
 backend/env/
+backend/internal/testing/global_test.go
 frontend/node_modules/
 frontend/pnpm-lock.yaml
 
